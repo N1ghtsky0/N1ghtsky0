@@ -1,16 +1,17 @@
-### Hi there 👋
+## 학교
+* 2019.03 ~ | 국립 부경대학교
+  - 정보통신공학전공
+  
+## 활동
 
-<!--
-**N1ghtsky0/N1ghtsky0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 2020.11 ~ 2021.12 | 학부 연구실
+  - Monte-Carlo Learning
+  - TD-0
+  - DQN
+  - DDPG
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 2022.07 ~ | 디지털부산스마트아카데미(DBSA)
+  - Decision Tree
+  - Naïve Bayes Classification
+  - Random Forest
+  - Django
