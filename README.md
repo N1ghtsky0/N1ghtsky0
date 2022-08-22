@@ -12,6 +12,7 @@
   - TD-0
   - DQN
   - DDPG
+  - auto-encoder
 
 * 2022.07 ~ | 디지털스마트부산아카데미 (Digital Smart Busan Academy)
   - Decision Tree
