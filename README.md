@@ -19,3 +19,4 @@
   - Naïve Bayes Classification
   - Random Forest
   - Django
+  - tensorflow
