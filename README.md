@@ -8,6 +8,7 @@
 ## Activity
 
 * 2020.11 ~ 2021.12 | 학부 연구실 (Undergraduate Researcher)
+  - Pytorch
   - Monte-Carlo Learning
   - TD-0
   - DQN
