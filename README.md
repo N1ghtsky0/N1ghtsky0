@@ -21,3 +21,4 @@
   - Random Forest
   - Django
   - tensorflow
+  - YOLO (v4, v7)
