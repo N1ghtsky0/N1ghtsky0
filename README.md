@@ -1,6 +1,6 @@
 ## SCHOOL
 
-* 2019.03 ~ | 국립 부경대학교 (Pukyong National Univercity)
+* 2019.03 ~ 2023.02 | 국립 부경대학교 (Pukyong National Univercity)
 
   - 정보통신공학전공 (Information and Communication Engineering)
 
@@ -22,3 +22,8 @@
   - Django
   - tensorflow
   - YOLO (v4, v7)
+
+* 2023.02 ~ 2023.06 | 스파로스 아카데미 (Spharos Academy)
+  - Spring
+  - Spring Boot
+  - JPA
