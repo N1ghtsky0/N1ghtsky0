@@ -25,5 +25,6 @@
 
 * 2023.02 ~ 2023.06 | 스파로스 아카데미 (Spharos Academy)
   - Spring
+  - Spring Security
   - Spring Boot
   - JPA
