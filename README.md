@@ -28,3 +28,6 @@
   - Spring Security
   - Spring Boot
   - JPA
+  - GCP(google cloud platform)
+  - Docker, Docker Hub
+  - Git Action
