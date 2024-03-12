@@ -1,34 +1,3 @@
-## SCHOOL
-
-* 2019.03 ~ 2023.02 | 국립 부경대학교 (Pukyong National Univercity)
-
-  - 정보통신공학전공 (Information and Communication Engineering)
-
-
-## Activity
-
-* 2020.11 ~ 2021.12 | 학부 연구실 (Undergraduate Researcher)
-  - Pytorch
-  - Monte-Carlo Learning
-  - TD-0
-  - DQN
-  - DDPG
-  - auto-encoder
-
-* 2022.07 ~ 2022.11 | 디지털스마트부산아카데미 (Digital Smart Busan Academy)
-  - Decision Tree
-  - Naïve Bayes Classification
-  - Random Forest
-  - Django
-  - tensorflow
-  - YOLO (v4, v7)
-
-* 2023.02 ~ 2023.06 | 스파로스 아카데미 (Spharos Academy)
-  - Spring
-  - Spring Security
-  - Spring Boot
-  - JPA
-  - GCP(google cloud platform)
-  - Docker, Docker Hub
-  - Git Action
-  - Spring cloud
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N1ghtsky0&theme=default&show_icons=true)  
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1ghtsky0&layout=compact&theme=default)
