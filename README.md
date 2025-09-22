@@ -1,8 +1,11 @@
-## Git Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N1ghtsky0&theme=default&show_icons=true)  
+### 김지욱
+* 부경대학교 정보통신공학과 학사 졸업(2019.03 ~ 2023.02)
+* 신세계아이앤씨 주관 스파로스 아카데미 (2023.04 ~ 2023.08)
 
-## Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1ghtsky0&layout=compact&theme=default)  
+### 기술 스택
+* Java, JavaScript, Python
+* Spring, SpringBoot
+* docker
 
-## BaekJoon (Algorithm Online Judge)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=20korea01)](https://solved.ac/20korea01)  
+### 자기소개
+백엔드 개발자를 지향하며, 클린 코드와 도메인 설계, 정돈된 디렉토리 구성을 통해 불필요한 의사소통을 줄이고 팀의 생산성을 높이는 데 관심이 있습니다. 공통된 관심사를 중심으로 시너지를 만드는 개발 문화를 추구합니다.
